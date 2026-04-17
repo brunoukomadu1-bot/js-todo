@@ -33,7 +33,7 @@ h1 {
 /* Input section */
 .input-section {
   display: flex;
-  gap: 10px;
+  gap: 20px;
 }
 
 #todo-input {
